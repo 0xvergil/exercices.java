@@ -61,6 +61,12 @@
       <sourceFolder url="file://$MODULE_DIR$/StringReplace" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Wedding" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/WeddingComplex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Builder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Decorator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Factory" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Observer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Singleton" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Strategy" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
